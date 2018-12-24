@@ -1,4 +1,4 @@
-# Follow the formal guides is enough to port Google Assistant Library (Python) on Raspberry Pi 3
+### Follow the formal guides is enough to port Google Assistant Library (Python) on Raspberry Pi 3
 
 https://github.com/googlesamples/assistant-sdk-python
 
